@@ -1,0 +1,17 @@
+{
+    "name": "mams/learn-router",
+    "autoload": {
+        "psr-4": {
+            "Mams\\LearnRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "97mams",
+            "email": "97mams@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
